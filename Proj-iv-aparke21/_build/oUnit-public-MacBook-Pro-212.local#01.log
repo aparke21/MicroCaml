@@ -1,0 +1,114 @@
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:0:public_parser_nothing.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:0:public_parser_nothing: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:0:public_parser_nothing.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:2:public_parser_expr_apply.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:2:public_parser_expr_apply: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:2:public_parser_expr_apply.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:3:public_parser_expr_double_fun.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:3:public_parser_expr_double_fun: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:3:public_parser_expr_double_fun.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:4:public_parser_expr_let_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:4:public_parser_expr_let_if: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:4:public_parser_expr_let_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:6:public_parser_expr_minus_one.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:6:public_parser_expr_minus_one: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:6:public_parser_expr_minus_one.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:8:public_parser_expr_simple_equal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:8:public_parser_expr_simple_equal: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:8:public_parser_expr_simple_equal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:10:public_parser_expr_simple_div.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:10:public_parser_expr_simple_div: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:10:public_parser_expr_simple_div.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:11:public_parser_expr_simple_mult.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:11:public_parser_expr_simple_mult: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:11:public_parser_expr_simple_mult.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:13:public_parser_expr_simple_sum.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:13:public_parser_expr_simple_sum: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:13:public_parser_expr_simple_sum.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:15:public_parser_expr_single_bool.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:15:public_parser_expr_single_bool: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:15:public_parser_expr_single_bool.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:17:public_parser_expr_single_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:17:public_parser_expr_single_if: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:17:public_parser_expr_single_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:19:public_parser_expr_single_notequal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:19:public_parser_expr_single_notequal: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:19:public_parser_expr_single_notequal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:21:public_parser_expr_single_number.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:21:public_parser_expr_single_number: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:21:public_parser_expr_single_number.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:23:public_parser_expr_single_string.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:23:public_parser_expr_single_string: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:23:public_parser_expr_single_string.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:25:public_parser_expr_record_empty.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:25:public_parser_expr_record_empty: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:25:public_parser_expr_record_empty.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:27:public_parser_expr_record2.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:27:public_parser_expr_record2: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:27:public_parser_expr_record2.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:29:public_parser_expr_record_select.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:29:public_parser_expr_record_select: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:29:public_parser_expr_record_select.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:32:public_parser_mutop_simple_def_and_let.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:32:public_parser_mutop_simple_def_and_let: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:32:public_parser_mutop_simple_def_and_let.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:34:public_eval_nothing.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:34:public_eval_nothing: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:34:public_eval_nothing.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:36:public_eval_expr_apply.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:36:public_eval_expr_apply: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:36:public_eval_expr_apply.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:38:public_eval_expr_let_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:38:public_eval_expr_let_if: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:38:public_eval_expr_let_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:40:public_eval_expr_minus_one.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:40:public_eval_expr_minus_one: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:40:public_eval_expr_minus_one.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:42:public_eval_expr_simple_equal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:42:public_eval_expr_simple_equal: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:42:public_eval_expr_simple_equal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:44:public_eval_expr_simple_div.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:44:public_eval_expr_simple_div: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:44:public_eval_expr_simple_div.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:46:public_eval_expr_simple_sub.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:46:public_eval_expr_simple_sub: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:46:public_eval_expr_simple_sub.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:47:public_eval_expr_simple_sum.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:47:public_eval_expr_simple_sum: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:47:public_eval_expr_simple_sum.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:50:public_eval_expr_single_fun.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:50:public_eval_expr_single_fun: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:50:public_eval_expr_single_fun.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:51:public_eval_expr_single_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:51:public_eval_expr_single_if: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:51:public_eval_expr_single_if.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:53:public_eval_expr_single_notequal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:53:public_eval_expr_single_notequal: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:53:public_eval_expr_single_notequal.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:56:public_eval_expr_single_or.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:56:public_eval_expr_single_or: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:56:public_eval_expr_single_or.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:57:public_eval_expr_single_string.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:57:public_eval_expr_single_string: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:57:public_eval_expr_single_string.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:59:public_eval_expr_record_empty.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:59:public_eval_expr_record_empty: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:59:public_eval_expr_record_empty.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:61:public_eval_expr_record2.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:61:public_eval_expr_record2: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:61:public_eval_expr_record2.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:63:public_eval_expr_record_select.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:63:public_eval_expr_record_select: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:63:public_eval_expr_record_select.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:66:public_eval_mutop_simple_def_and_let.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:66:public_eval_mutop_simple_def_and_let: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:66:public_eval_mutop_simple_def_and_let.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:67:public_eval_mutop_factorial.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:67:public_eval_mutop_factorial: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:67:public_eval_mutop_factorial.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:69:public_mutop_nonempty_env.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:69:public_mutop_nonempty_env: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:69:public_mutop_nonempty_env.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: Start test public:71:public_err_def_not_top_level.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 W: Skip test public:71:public_err_def_not_top_level: Test disabled.
+2024-04-05T22:18:23+00:00 MacBook-Pro-212.local#01 I: End test public:71:public_err_def_not_top_level.

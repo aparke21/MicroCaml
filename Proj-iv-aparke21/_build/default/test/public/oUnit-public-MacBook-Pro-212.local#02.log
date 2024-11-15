@@ -1,0 +1,96 @@
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:1:public_parser_expr_add1.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:1:public_parser_expr_add1 is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:1:public_parser_expr_add1.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:4:public_parser_expr_let_if.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:4:public_parser_expr_let_if is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:4:public_parser_expr_let_if.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:6:public_parser_expr_minus_one.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:6:public_parser_expr_minus_one is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:6:public_parser_expr_minus_one.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:9:public_parser_expr_simple_concat.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:9:public_parser_expr_simple_concat is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:9:public_parser_expr_simple_concat.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:11:public_parser_expr_simple_mult.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:11:public_parser_expr_simple_mult is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:11:public_parser_expr_simple_mult.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:13:public_parser_expr_simple_sum.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:13:public_parser_expr_simple_sum is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:13:public_parser_expr_simple_sum.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:16:public_parser_expr_single_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:16:public_parser_expr_single_fun is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:16:public_parser_expr_single_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:18:public_parser_expr_single_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:18:public_parser_expr_single_let is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:18:public_parser_expr_single_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:20:public_parser_expr_single_not.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:20:public_parser_expr_single_not is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:20:public_parser_expr_single_not.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:23:public_parser_expr_single_string.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:23:public_parser_expr_single_string is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:23:public_parser_expr_single_string.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:25:public_parser_expr_record_empty.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:25:public_parser_expr_record_empty is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:25:public_parser_expr_record_empty.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:27:public_parser_expr_record2.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:27:public_parser_expr_record2 is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:27:public_parser_expr_record2.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:30:public_parser_expr_record_select_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:30:public_parser_expr_record_select_let is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:30:public_parser_expr_record_select_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:32:public_parser_mutop_simple_def_and_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:32:public_parser_mutop_simple_def_and_let is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:32:public_parser_mutop_simple_def_and_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:35:public_eval_expr_add1.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:35:public_eval_expr_add1 is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:35:public_eval_expr_add1.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:37:public_eval_expr_double_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:37:public_eval_expr_double_fun is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:37:public_eval_expr_double_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:39:public_eval_expr_let_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:39:public_eval_expr_let_fun is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:39:public_eval_expr_let_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:42:public_eval_expr_simple_equal.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:42:public_eval_expr_simple_equal is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:42:public_eval_expr_simple_equal.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:44:public_eval_expr_simple_div.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:44:public_eval_expr_simple_div is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:44:public_eval_expr_simple_div.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:46:public_eval_expr_simple_sub.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:46:public_eval_expr_simple_sub is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:46:public_eval_expr_simple_sub.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:48:public_eval_expr_single_and.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:48:public_eval_expr_single_and is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:48:public_eval_expr_single_and.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:50:public_eval_expr_single_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:50:public_eval_expr_single_fun is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:50:public_eval_expr_single_fun.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:52:public_eval_expr_single_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:52:public_eval_expr_single_let is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:52:public_eval_expr_single_let.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:54:public_eval_expr_single_not.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:54:public_eval_expr_single_not is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:54:public_eval_expr_single_not.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:57:public_eval_expr_single_string.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:57:public_eval_expr_single_string is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:57:public_eval_expr_single_string.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:59:public_eval_expr_record_empty.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:59:public_eval_expr_record_empty is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:59:public_eval_expr_record_empty.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:61:public_eval_expr_record2.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:61:public_eval_expr_record2 is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:61:public_eval_expr_record2.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:63:public_eval_expr_record_select.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:63:public_eval_expr_record_select is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:63:public_eval_expr_record_select.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:65:public_eval_mutop_pi_def.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:65:public_eval_mutop_pi_def is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:65:public_eval_mutop_pi_def.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:67:public_eval_mutop_factorial.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:67:public_eval_mutop_factorial is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:67:public_eval_mutop_factorial.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:70:public_err_div_by_zero.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:70:public_err_div_by_zero is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:70:public_err_div_by_zero.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Start test public:72:public_err_mutop_nested_def.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: Test public:72:public_err_mutop_nested_def is successful.
+2024-04-11T00:54:23+00:00 MacBook-Pro-212.local#02 I: End test public:72:public_err_mutop_nested_def.

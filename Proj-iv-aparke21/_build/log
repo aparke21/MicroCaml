@@ -1,0 +1,35 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/angeloparker/.cache/dune/db
+# Workspace root: /Users/angeloparker/Proj-iv-aparke21
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/angeloparker/Proj-iv-aparke21/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/angeloparker/.opam/4.14.0/bin/ocamlc.opt -config > /var/folders/0h/kw90bn6n76z3yg7h9jw6b3980000gn/T/dune_4a631e_output
+$ (cd _build/default/test/public && ./public.exe)
+> .........................................................................
+> Ran: 73 tests in: 0.12 seconds.
+> OK
+$ (cd _build/default/test/student && ./student.exe)
+> .
+> Ran: 1 tests in: 0.11 seconds.
+> OK
+$ (cd _build/default/test/pbt && ./pbt.exe)
+> ....
+> Ran: 4 tests in: 0.13 seconds.
+> OK
